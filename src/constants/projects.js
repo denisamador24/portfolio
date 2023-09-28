@@ -27,7 +27,7 @@ const projects = [
     title: 'Hoo-Bank',
     image: '/page4.png',
     url: 'https://hoo-bank-denisamador24.vercel.app/',
-    github: 'ttps://github.com/denisamador24/hoo-bank'
+    github: 'https://github.com/denisamador24/hoo-bank'
   },
   {
     title: 'Nike',

@@ -31,7 +31,7 @@ const ProjectList = () => {
                   <BsArrowUpRight />
                 </div>
               </Link>
-              <Link href={project.github}>
+              <Link href={project.github} target='_blank'>
                 <div className='flex gap-2'>
                   <p>View in GitHub</p>
                   <AiFillGithub size={24} />
